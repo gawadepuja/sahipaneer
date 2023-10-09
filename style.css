@@ -1,0 +1,16 @@
+.demo{
+    color: blue;
+    font-size: 50px;
+    font-style: oblique;
+    background-color: aqua;
+    width: fit-content;
+}
+#item{
+
+    color: red;
+    font-size: 50px;
+    font-style:calc(23);
+    background-color: pink;   
+    width:fit-content;
+    
+}
